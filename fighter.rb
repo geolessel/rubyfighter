@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
-require "esvbible-0.0.1/lib/esv_bible.rb"
 require 'hpricot'
 require 'open-uri'
 require 'yaml'
