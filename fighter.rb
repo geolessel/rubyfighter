@@ -48,7 +48,7 @@ module FighterVerses
 
     def current_verse
       week_number = ((Time.now - @start_date) / 24 / 60 / 60).to_i / 7
-      return "#{@verses[week_number].text} [#{@verses[week_number].reference}]"
+      return "\"#{@verses[week_number].text}\" [#{@verses[week_number].reference}]".gsub(/(.{1,78})(\s+|\Z)/, "\\1\n")
     end
 
     def save
