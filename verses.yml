@@ -1,0 +1,1823 @@
+--- 
+start_date: 2011-05-24 00:00:00 -05:00
+verses: 
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "4"
+  category: Faithfulness (of God)
+  reference: Deuteronomy 7:9
+  set: "1"
+  set_order: "1:01"
+  text: Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "5"
+  category: Obeying God
+  reference: Deuteronomy 10:12-13
+  set: "1"
+  set_order: "1:02"
+  text: "\"And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments and statutes of the LORD, which I am commanding you today for your good?"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "133"
+  category: Salvation
+  reference: John 1:12-13
+  set: "1"
+  set_order: "1:03"
+  text: But to all who did receive him, who believed in his name, he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "164"
+  category: Sovereignty of God
+  reference: Romans 11:33-36
+  set: "1"
+  set_order: "1:04"
+  text: Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways! "For who has known the mind of the Lord, or who has been his counselor?" "Or who has given a gift to him that he might be repaid?" For from him and through him and to him are all things. To him be glory forever. Amen.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "165"
+  category: Sanctification
+  reference: Romans 12:1-2
+  set: "1"
+  set_order: "1:05"
+  text: I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "38"
+  category: Fear, Battling
+  reference: Psalm 56:3-4
+  set: "1"
+  set_order: "1:06"
+  text: When I am afraid, I put my trust in you. In God, whose word I praise, in God I trust; I shall not be afraid. What can flesh do to me?
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "39"
+  category: Trusting God
+  reference: Psalm 62:5-7 [8]
+  set: "1"
+  set_order: "1:07"
+  text: For God alone, O my soul, wait in silence, for my hope is from him. He only is my rock and my salvation, my fortress; I shall not be shaken. On God rests my salvation and my glory; my mighty rock, my refuge is God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "155"
+  category: Work of Christ
+  reference: Romans 8:1
+  set: "1"
+  set_order: "1:08"
+  text: There is therefore now no condemnation for those who are in Christ Jesus.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "253"
+  category: Sin, Battling
+  reference: 1 John 2:15-17
+  set: "1"
+  set_order: "1:09"
+  text: Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world- -the desires of the flesh and the desires of the eyes and pride in possessions--is not from the Father but is from the world. And the world is passing away along with its desires, but whoever does the will of God abides forever.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "207"
+  category: Humility of Christ
+  reference: Philippians 2:5-7
+  set: "1"
+  set_order: "1:10"
+  text: Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but made himself nothing, taking the form of a servant, being born in the likeness of men.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "208"
+  category: Humility of Christ
+  reference: Philippians 2:8-9
+  set: "1"
+  set_order: "1:11"
+  text: And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "209"
+  category: Supremacy of Jesus
+  reference: Philippians 2:10-11
+  set: "1"
+  set_order: "1:12"
+  text: so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "210"
+  category: Sanctification
+  reference: Philippians 2:12-13
+  set: "1"
+  set_order: "1:13"
+  text: Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work for his good pleasure.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "236"
+  category: Endurance
+  reference: James 1:2-3
+  set: "1"
+  set_order: "1:14"
+  text: Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "237"
+  category: Endurance
+  reference: James 1:4-5
+  set: "1"
+  set_order: "1:15"
+  text: And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "8"
+  category: Word of the Lord
+  reference: Psalm 1:1-2
+  set: "1"
+  set_order: "1:16"
+  text: Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the LORD, and on his law he meditates day and night.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "9"
+  category: Word of the Lord
+  reference: Psalm 1:3-4
+  set: "1"
+  set_order: "1:17"
+  text: He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers. The wicked are not so, but are like chaff that the wind drives away.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "10"
+  category: Word of the Lord
+  reference: Psalm 1:5-6
+  set: "1"
+  set_order: "1:18"
+  text: Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous; for the LORD knows the way of the righteous, but the way of the wicked will perish.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "218"
+  category: Life in Christ
+  reference: Colossians 3:1-3
+  set: "1"
+  set_order: "1:19"
+  text: If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth. For you have died, and your life is hidden with Christ in God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "198"
+  category: Anger, Battling
+  reference: Ephesians 4:26
+  set: "1"
+  set_order: "1:20"
+  text: Be angry and do not sin; do not let the sun go down on your anger,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "104"
+  category: Sovereignty of God
+  reference: Isaiah 40:28-29
+  set: "1"
+  set_order: "1:21"
+  text: Have you not known? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable. He gives power to the faint, and to him who has no might he increases strength.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "105"
+  category: Waiting on God
+  reference: Isaiah 40:30-31
+  set: "1"
+  set_order: "1:22"
+  text: Even youths shall faint and be weary, and young men shall fall exhausted; but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "44"
+  category: Faithfulness (of God)
+  reference: Psalm 86:5-7
+  set: "1"
+  set_order: "1:23"
+  text: For you, O Lord, are good and forgiving, abounding in steadfast love to all who call upon you. Give ear, O LORD, to my prayer; listen to my plea for grace. In the day of my trouble I call upon you, for you answer me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "224"
+  category: Supremacy of Jesus
+  reference: 1 Timothy 2:5
+  set: "1"
+  set_order: "1:24"
+  text: For there is one God, and there is one mediator between God and men, the man Christ Jesus,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "245"
+  category: Salvation
+  reference: 1 Peter 1:3-5
+  set: "1"
+  set_order: "1:25"
+  text: Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, who by God's power are being guarded through faith for a salvation ready to be revealed in the last time.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "201"
+  category: Spiritual Warfare
+  reference: Ephesians 6:10-11
+  set: "1"
+  set_order: "1:26"
+  text: Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "202"
+  category: Spiritual Warfare
+  reference: Ephesians 6:12-13
+  set: "1"
+  set_order: "1:27"
+  text: For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places. Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "203"
+  category: Spiritual Warfare
+  reference: Ephesians 6:14-15
+  set: "1"
+  set_order: "1:28"
+  text: Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness, and, as shoes for your feet, having put on the readiness given by the gospel of peace.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "204"
+  category: Spiritual Warfare
+  reference: Ephesians 6:16-17 [18]
+  set: "1"
+  set_order: "1:29"
+  text: In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one; and take the helmet of salvation, and the sword of the Spirit, which is the word of God,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "205"
+  category: Security in God
+  reference: Philippians 1:6
+  set: "1"
+  set_order: "1:30"
+  text: And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "127"
+  category: Fear, Battling
+  reference: Matthew 10:28
+  set: "1"
+  set_order: "1:31"
+  text: And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "149"
+  category: Gospel
+  reference: Romans 1:16 [17]
+  set: "1"
+  set_order: "1:32"
+  text: For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "128"
+  category: Depending on Christ
+  reference: Matthew 11:28-30
+  set: "1"
+  set_order: "1:33"
+  text: Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "16"
+  category: Trusting God
+  reference: Psalm 20:6-7 [8]
+  set: "1"
+  set_order: "1:34"
+  text: Now I know that the LORD saves his anointed; he will answer him from his holy heaven with the saving might of his right hand. Some trust in chariots and some in horses, but we trust in the name of the LORD our God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "238"
+  category: Endurance
+  reference: James 1:12
+  set: "1"
+  set_order: "1:35"
+  text: Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "185"
+  category: Generosity
+  reference: 2 Corinthians 9:6-7
+  set: "1"
+  set_order: "1:36"
+  text: "The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "186"
+  category: Generosity
+  reference: 2 Corinthians 9:8
+  set: "1"
+  set_order: "1:37"
+  text: And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "187"
+  category: Depending on Christ
+  reference: 2 Corinthians 12:9 [10]
+  set: "1"
+  set_order: "1:38"
+  text: But he said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "113"
+  category: Waiting on God
+  reference: Isaiah 64:4
+  set: "1"
+  set_order: "1:39"
+  text: From of old no one has heard or perceived by the ear, no eye has seen a God besides you, who acts for those who wait for him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "228"
+  category: Work of Christ
+  reference: Titus 3:4-6
+  set: "1"
+  set_order: "1:40"
+  text: But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "110"
+  category: Sovereignty of God
+  reference: Isaiah 46:9-10 [11]
+  set: "1"
+  set_order: "1:41"
+  text: remember the former things of old; for I am God, and there is no other; I am God, and there is none like me, declaring the end from the beginning and from ancient times things not yet done, saying, 'My counsel shall stand, and I will accomplish all my purpose,'
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "85"
+  category: Sin, Battling
+  reference: Proverbs 1:10
+  set: "1"
+  set_order: "1:42"
+  text: My son, if sinners entice you, do not consent.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "86"
+  category: Trusting God
+  reference: Proverbs 3:5-6 [7]
+  set: "1"
+  set_order: "1:43"
+  text: Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "97"
+  category: Anger, Battling
+  reference: Proverbs 19:11
+  set: "1"
+  set_order: "1:44"
+  text: Good sense makes one slow to anger, and it is his glory to overlook an offense.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "144"
+  category: Life in Christ
+  reference: John 15:5
+  set: "1"
+  set_order: "1:45"
+  text: I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "142"
+  category: Eternity
+  reference: John 14:2-3
+  set: "1"
+  set_order: "1:46"
+  text: In my Father's house are many rooms. If it were not so, would I have told you that I go to prepare a place for you? And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "73"
+  category: Trusting God
+  reference: Psalm 125:1-2
+  set: "1"
+  set_order: "1:47"
+  text: Those who trust in the LORD are like Mount Zion, which cannot be moved, but abides forever. As the mountains surround Jerusalem, so the LORD surrounds his people, from this time forth and forevermore.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "84"
+  category: Speech
+  reference: Psalm 141:3-4
+  set: "1"
+  set_order: "1:48"
+  text: Set a guard, O LORD, over my mouth; keep watch over the door of my lips! Do not let my heart incline to any evil, to busy myself with wicked deeds in company with men who work iniquity, and let me not eat of their delicacies!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "252"
+  category: Sin, Battling
+  reference: 1 John 1:8-9
+  set: "1"
+  set_order: "1:49"
+  text: If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "17"
+  category: Guidance (of God)
+  reference: Psalm 23:1-2
+  set: "1"
+  set_order: "1:50"
+  text: The LORD is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "18"
+  category: Guidance (of God)
+  reference: Psalm 23:3-4
+  set: "1"
+  set_order: "1:51"
+  text: He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "19"
+  category: Presence (of God)
+  reference: Psalm 23:5-6
+  set: "1"
+  set_order: "1:52"
+  text: You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the LORD forever.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "103"
+  category: Word of the Lord
+  reference: Isaiah 40:8
+  set: "2"
+  set_order: "2:01"
+  text: The grass withers, the flower fades, but the word of our God will stand forever.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "162"
+  category: Gospel
+  reference: Romans 10:13-14 [15]
+  set: "2"
+  set_order: "2:02"
+  text: For "everyone who calls on the name of the Lord will be saved." How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching?
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "12"
+  category: Joy
+  reference: Psalm 16:11
+  set: "2"
+  set_order: "2:03"
+  text: You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "172"
+  category: Life in Christ
+  reference: Romans 15:1-2
+  set: "2"
+  set_order: "2:04"
+  text: We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves. Let each of us please his neighbor for his good, to build him up.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "59"
+  category: Goodness (of God)
+  reference: Psalm 103:1-4
+  set: "2"
+  set_order: "2:05"
+  text: Bless the LORD, O my soul, and all that is within me, bless his holy name! Bless the LORD, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases, who redeems your life from the pit, who crowns you with steadfast love and mercy,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "60"
+  category: Goodness (of God)
+  reference: Psalm 103:5-7
+  set: "2"
+  set_order: "2:06"
+  text: who satisfies you with good so that your youth is renewed like the eagle's. The LORD works righteousness and justice for all who are oppressed. He made known his ways to Moses, his acts to the people of Israel.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "61"
+  category: Goodness (of God)
+  reference: Psalm 103:8-10
+  set: "2"
+  set_order: "2:07"
+  text: The LORD is merciful and gracious, slow to anger and abounding in steadfast love. He will not always chide, nor will he keep his anger forever. He does not deal with us according to our sins, nor repay us according to our iniquities.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "62"
+  category: Goodness (of God)
+  reference: Psalm 103:11-14
+  set: "2"
+  set_order: "2:08"
+  text: For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him; as far as the east is from the west, so far does he remove our transgressions from us. As a father shows compassion to his children, so the LORD shows compassion to those who fear him. For he knows our frame; he remembers that we are dust.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "63"
+  category: Goodness (of God)
+  reference: Psalm 103:15-16
+  set: "2"
+  set_order: "2:09"
+  text: As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "64"
+  category: Goodness (of God)
+  reference: Psalm 103:17-19
+  set: "2"
+  set_order: "2:10"
+  text: But the steadfast love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children's children, to those who keep his covenant and remember to do his commandments. The LORD has established his throne in the heavens, and his kingdom rules over all.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "65"
+  category: Praise & Worship
+  reference: Psalm 103:20-22
+  set: "2"
+  set_order: "2:11"
+  text: Bless the LORD, O you his angels, you mighty ones who do his word, obeying the voice of his word! Bless the LORD, all his hosts, his ministers, who do his will! Bless the LORD, all his works, in all places of his dominion. Bless the LORD, O my soul!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "45"
+  category: Guidance (of God)
+  reference: Psalm 86:11
+  set: "2"
+  set_order: "2:12"
+  text: Teach me your way, O LORD, that I may walk in your truth; unite my heart to fear your name.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "199"
+  category: Speech
+  reference: Ephesians 4:29
+  set: "2"
+  set_order: "2:13"
+  text: Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "200"
+  category: Sanctification
+  reference: Ephesians 4:31-32
+  set: "2"
+  set_order: "2:14"
+  text: Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "2"
+  category: Loving God
+  reference: Deuteronomy 6:4-5
+  set: "2"
+  set_order: "2:15"
+  text: "\"Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "3"
+  category: Word of the Lord
+  reference: Deuteronomy 6:6-7
+  set: "2"
+  set_order: "2:16"
+  text: And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "182"
+  category: Life in Christ
+  reference: 2 Corinthians 5:17
+  set: "2"
+  set_order: "2:17"
+  text: Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "131"
+  category: Generosity
+  reference: Luke 12:32-34
+  set: "2"
+  set_order: "2:18"
+  text: "\"Fear not, little flock, for it is your Father's good pleasure to give you the kingdom. Sell your possessions, and give to the needy. Provide yourselves with moneybags that do not grow old, with a treasure in the heavens that does not fail, where no thief approaches and no moth destroys. For where your treasure is, there will your heart be also."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "189"
+  category: Sanctification
+  reference: Galatians 5:22-23
+  set: "2"
+  set_order: "2:19"
+  text: But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "190"
+  category: Sanctification
+  reference: Galatians 5:24-25
+  set: "2"
+  set_order: "2:20"
+  text: And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "91"
+  category: Obeying God
+  reference: Proverbs 6:20-21
+  set: "2"
+  set_order: "2:21"
+  text: My son, keep your father's commandment, and forsake not your mother's teaching. Bind them on your heart always; tie them around your neck.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "92"
+  category: Word of the Lord
+  reference: Proverbs 6:22-23
+  set: "2"
+  set_order: "2:22"
+  text: When you walk, they will lead you; when you lie down, they will watch over you; and when you awake, they will talk with you. For the commandment is a lamp and the teaching a light, and the reproofs of discipline are the way of life,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "216"
+  category: Contentment
+  reference: Philippians 4:11-13
+  set: "2"
+  set_order: "2:23"
+  text: Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. I can do all things through him who strengthens me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "227"
+  category: Fear, Battling
+  reference: 2 Timothy 1:7
+  set: "2"
+  set_order: "2:24"
+  text: for God gave us a spirit not of fear but of power and love and self- control.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "250"
+  category: Anxiety, Battling
+  reference: 1 Peter 5:6-8
+  set: "2"
+  set_order: "2:25"
+  text: Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, casting all your anxieties on him, because he cares for you. Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "251"
+  category: Suffering
+  reference: 1 Peter 5:9-10 [11]
+  set: "2"
+  set_order: "2:26"
+  text: Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "96"
+  category: Security in God
+  reference: Proverbs 18:10
+  set: "2"
+  set_order: "2:27"
+  text: The name of the LORD is a strong tower; the righteous man runs into it and is safe.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "46"
+  category: Security in God
+  reference: Psalm 91:1-2
+  set: "2"
+  set_order: "2:28"
+  text: He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, "My refuge and my fortress, my God, in whom I trust."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "47"
+  category: Security in God
+  reference: Psalm 91:3-4
+  set: "2"
+  set_order: "2:29"
+  text: For he will deliver you from the snare of the fowler and from the deadly pestilence. He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "48"
+  category: Security in God
+  reference: Psalm 91:5-6
+  set: "2"
+  set_order: "2:30"
+  text: You will not fear the terror of the night, nor the arrow that flies by day, nor the pestilence that stalks in darkness, nor the destruction that wastes at noonday.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "49"
+  category: Security in God
+  reference: Psalm 91:7-8
+  set: "2"
+  set_order: "2:31"
+  text: A thousand may fall at your side, ten thousand at your right hand, but it will not come near you. You will only look with your eyes and see the recompense of the wicked.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "50"
+  category: Security in God
+  reference: Psalm 91:9-10
+  set: "2"
+  set_order: "2:32"
+  text: Because you have made the LORD your dwelling place-- the Most High, who is my refuge-- no evil shall be allowed to befall you, no plague come near your tent.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "51"
+  category: Security in God
+  reference: Psalm 91:11-13
+  set: "2"
+  set_order: "2:33"
+  text: For he will command his angels concerning you to guard you in all your ways. On their hands they will bear you up, lest you strike your foot against a stone. You will tread on the lion and the adder; the young lion and the serpent you will trample underfoot.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "52"
+  category: Security in God
+  reference: Psalm 91:14-16
+  set: "2"
+  set_order: "2:34"
+  text: "\"Because he holds fast to me in love, I will deliver him; I will protect him, because he knows my name. When he calls to me, I will answer him; I will be with him in trouble; I will rescue him and honor him. With long life I will satisfy him and show him my salvation.\""
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "249"
+  category: Suffering
+  reference: 1 Peter 4:16
+  set: "2"
+  set_order: "2:35"
+  text: Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in that name.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "134"
+  category: Gospel
+  reference: John 3:16-17
+  set: "2"
+  set_order: "2:36"
+  text: "\"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "146"
+  category: Salvation
+  reference: Acts 4:11-12
+  set: "2"
+  set_order: "2:37"
+  text: This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "100"
+  category: Anger, Battling
+  reference: Proverbs 29:1, 11
+  set: "2"
+  set_order: "2:38"
+  text: He who is often reproved, yet stiffens his neck, will suddenly be broken beyond healing. A fool gives full vent to his spirit, but a wise man quietly holds it back.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "217"
+  category: Faithfulness (of God)
+  reference: Philippians 4:19
+  set: "2"
+  set_order: "2:39"
+  text: And my God will supply every need of yours according to his riches in glory in Christ Jesus.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "175"
+  category: Sin, Battling
+  reference: 1 Corinthians 10:13
+  set: "2"
+  set_order: "2:40"
+  text: No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "111"
+  category: Work of Christ
+  reference: Isaiah 53:4-5
+  set: "2"
+  set_order: "2:41"
+  text: Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. But he was wounded for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his stripes we are healed.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "112"
+  category: Work of Christ
+  reference: Isaiah 53:6
+  set: "2"
+  set_order: "2:42"
+  text: All we like sheep have gone astray; we have turned--every one--to his own way; and the LORD has laid on him the iniquity of us all.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "247"
+  category: Gospel
+  reference: 1 Peter 2:24
+  set: "2"
+  set_order: "2:43"
+  text: He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "181"
+  category: Suffering
+  reference: 2 Corinthians 4:17-18
+  set: "2"
+  set_order: "2:44"
+  text: For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "188"
+  category: Life in Christ
+  reference: Galatians 2:20
+  set: "2"
+  set_order: "2:45"
+  text: I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "150"
+  category: Gospel
+  reference: Romans 3:23-24
+  set: "2"
+  set_order: "2:46"
+  text: for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "232"
+  category: Trusting God
+  reference: Hebrews 11:6
+  set: "2"
+  set_order: "2:47"
+  text: And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "171"
+  category: Security in God
+  reference: Romans 14:7-8 [9]
+  set: "2"
+  set_order: "2:48"
+  text: For none of us lives to himself, and none of us dies to himself. For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "135"
+  category: Salvation
+  reference: John 3:36
+  set: "2"
+  set_order: "2:49"
+  text: Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "225"
+  category: Youth
+  reference: 1 Timothy 4:12
+  set: "2"
+  set_order: "2:50"
+  text: Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "174"
+  category: Supremacy of Jesus
+  reference: 1 Corinthians 2:1-2
+  set: "2"
+  set_order: "2:51"
+  text: And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. For I decided to know nothing among you except Jesus Christ and him crucified.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "257"
+  category: Praise & Worship
+  reference: Revelation 5:12-13
+  set: "2"
+  set_order: "2:52"
+  text: saying with a loud voice, "Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!" And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, "To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "6"
+  category: Fear, Battling
+  reference: Joshua 1:9
+  set: "3"
+  set_order: "3:01"
+  text: Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "7"
+  category: Presence (of God)
+  reference: 2 Chronicles 16:9
+  set: "3"
+  set_order: "3:02"
+  text: For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him. You have done foolishly in this, for from now on you will have wars."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "211"
+  category: Supremacy of Jesus
+  reference: Philippians 3:7-8
+  set: "3"
+  set_order: "3:03"
+  text: But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "212"
+  category: Salvation
+  reference: Philippians 3:9
+  set: "3"
+  set_order: "3:04"
+  text: and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith--
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "213"
+  category: Suffering
+  reference: Philippians 3:10-11
+  set: "3"
+  set_order: "3:05"
+  text: that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, that by any means possible I may attain the resurrection from the dead.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "173"
+  category: Salvation
+  reference: 1 Corinthians 1:18
+  set: "3"
+  set_order: "3:06"
+  text: For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "33"
+  category: Trusting God
+  reference: Psalm 37:[1-2] 3-4
+  set: "3"
+  set_order: "3:07"
+  text: Fret not yourself because of evildoers; be not envious of wrongdoers! For they will soon fade like the grass and wither like the green herb. Trust in the LORD, and do good; dwell in the land and befriend faithfulness. Delight yourself in the LORD, and he will give you the desires of your heart.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "34"
+  category: Trusting God
+  reference: Psalm 37:5-6 [7-8]
+  set: "3"
+  set_order: "3:08"
+  text: Commit your way to the LORD; trust in him, and he will act. He will bring forth your righteousness as the light, and your justice as the noonday. Be still before the LORD and wait patiently for him; fret not yourself over the one who prospers in his way, over the man who carries out evil devices! Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "35"
+  category: Guidance (of God)
+  reference: Psalm 37:23-24
+  set: "3"
+  set_order: "3:09"
+  text: The steps of a man are established by the LORD, when he delights in his way; though he fall, he shall not be cast headlong, for the LORD upholds his hand.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "233"
+  category: Endurance
+  reference: Hebrews 12:1
+  set: "3"
+  set_order: "3:10"
+  text: Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "234"
+  category: Work of Christ
+  reference: Hebrews 12:2
+  set: "3"
+  set_order: "3:11"
+  text: looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "53"
+  category: Praise & Worship
+  reference: Psalm 96:1-3
+  set: "3"
+  set_order: "3:12"
+  text: Oh sing to the LORD a new song; sing to the LORD, all the earth! Sing to the LORD, bless his name; tell of his salvation from day to day. Declare his glory among the nations, his marvelous works among all the peoples!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "54"
+  category: Sovereignty of God
+  reference: Psalm 96:4-5
+  set: "3"
+  set_order: "3:13"
+  text: For great is the LORD, and greatly to be praised; he is to be feared above all gods. For all the gods of the peoples are worthless idols, but the LORD made the heavens.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "55"
+  category: Praise & Worship
+  reference: Psalm 96:6-8
+  set: "3"
+  set_order: "3:14"
+  text: Splendor and majesty are before him; strength and beauty are in his sanctuary. Ascribe to the LORD, O families of the peoples, ascribe to the LORD glory and strength! Ascribe to the LORD the glory due his name; bring an offering, and come into his courts!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "56"
+  category: Praise & Worship
+  reference: Psalm 96:9-10
+  set: "3"
+  set_order: "3:15"
+  text: Worship the LORD in the splendor of holiness; tremble before him, all the earth! Say among the nations, "The LORD reigns! Yes, the world is established; it shall never be moved; he will judge the peoples with equity."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "108"
+  category: Forgiveness
+  reference: Isaiah 43:25
+  set: "3"
+  set_order: "3:16"
+  text: "\"I, I am he who blots out your transgressions for my own sake, and I will not remember your sins."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "166"
+  category: Life in Christ
+  reference: Romans 12:9-10
+  set: "3"
+  set_order: "3:17"
+  text: Let love be genuine. Abhor what is evil; hold fast to what is good. Love one another with brotherly affection. Outdo one another in showing honor.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "167"
+  category: Life in Christ
+  reference: Romans 12:11-13
+  set: "3"
+  set_order: "3:18"
+  text: Do not be slothful in zeal, be fervent in spirit, serve the Lord. Rejoice in hope, be patient in tribulation, be constant in prayer. Contribute to the needs of the saints and seek to show hospitality.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "168"
+  category: Life in Christ
+  reference: Romans 12:14-16
+  set: "3"
+  set_order: "3:19"
+  text: Bless those who persecute you; bless and do not curse them. Rejoice with those who rejoice, weep with those who weep. Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "169"
+  category: Life in Christ
+  reference: Romans 12:17-19
+  set: "3"
+  set_order: "3:20"
+  text: Repay no one evil for evil, but give thought to do what is honorable in the sight of all. If possible, so far as it depends on you, live peaceably with all. Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, "Vengeance is mine, I will repay, says the Lord."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "170"
+  category: Life in Christ
+  reference: Romans 12:20-21
+  set: "3"
+  set_order: "3:21"
+  text: To the contrary, "if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head." Do not be overcome by evil, but overcome evil with good.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "93"
+  category: Speech
+  reference: Proverbs 15:1
+  set: "3"
+  set_order: "3:22"
+  text: A soft answer turns away wrath, but a harsh word stirs up anger.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "243"
+  category: Pride, Battling
+  reference: James 4:13-14
+  set: "3"
+  set_order: "3:23"
+  text: Come now, you who say, "Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit"-- yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "244"
+  category: Pride, Battling
+  reference: James 4:15-17
+  set: "3"
+  set_order: "3:24"
+  text: Instead you ought to say, "If the Lord wills, we will live and do this or that." As it is, you boast in your arrogance. All such boasting is evil. So whoever knows the right thing to do and fails to do it, for him it is sin.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "132"
+  category: Work of Christ
+  reference: Luke 19:10
+  set: "3"
+  set_order: "3:25"
+  text: For the Son of Man came to seek and to save the lost."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "13"
+  category: Word of the Lord
+  reference: Psalm 18:30-31
+  set: "3"
+  set_order: "3:26"
+  text: This God--his way is perfect; the word of the LORD proves true; he is a shield for all those who take refuge in him. For who is God, but the LORD? And who is a rock, except our God?--
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "214"
+  category: Anxiety, Battling
+  reference: Philippians 4:6-7
+  set: "3"
+  set_order: "3:27"
+  text: do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "215"
+  category: Sanctification
+  reference: Philippians 4:8
+  set: "3"
+  set_order: "3:28"
+  text: Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "36"
+  category: Trusting God
+  reference: Psalm 42:11
+  set: "3"
+  set_order: "3:29"
+  text: Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "109"
+  category: Faithfulness (of God)
+  reference: Isaiah 46:3-4
+  set: "3"
+  set_order: "3:30"
+  text: "\"Listen to me, O house of Jacob, all the remnant of the house of Israel, who have been borne by me from before your birth, carried from the womb; even to your old age I am he, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "206"
+  category: Life in Christ
+  reference: Philippians 1:21
+  set: "3"
+  set_order: "3:31"
+  text: For to me to live is Christ, and to die is gain.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "116"
+  category: Seeking God
+  reference: Jeremiah 29:11-14
+  set: "3"
+  set_order: "3:32"
+  text: For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope. Then you will call upon me and come and pray to me, and I will hear you. You will seek me and find me, when you seek me with all your heart. I will be found by you, declares the LORD, and I will restore your fortunes and gather you from all the nations and all the places where I have driven you, declares the LORD, and I will bring you back to the place from which I sent you into exile.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "98"
+  category: Contentment
+  reference: Proverbs 22:1
+  set: "3"
+  set_order: "3:33"
+  text: A good name is to be chosen rather than great riches, and favor is better than silver or gold.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "23"
+  category: Suffering
+  reference: Psalm 30:4-5
+  set: "3"
+  set_order: "3:34"
+  text: Sing praises to the LORD, O you his saints, and give thanks to his holy name. For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "148"
+  category: Generosity
+  reference: Acts 20:35
+  set: "3"
+  set_order: "3:35"
+  text: In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, 'It is more blessed to give than to receive.'"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "122"
+  category: Sanctification
+  reference: Matthew 5:3-6
+  set: "3"
+  set_order: "3:36"
+  text: "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven. \"Blessed are those who mourn, for they shall be comforted. \"Blessed are the meek, for they shall inherit the earth. \"Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "123"
+  category: Sanctification
+  reference: Matthew 5:7-10
+  set: "3"
+  set_order: "3:37"
+  text: "\"Blessed are the merciful, for they shall receive mercy. \"Blessed are the pure in heart, for they shall see God. \"Blessed are the peacemakers, for they shall be called sons of God. \"Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "124"
+  category: Suffering
+  reference: Matthew 5:11-12
+  set: "3"
+  set_order: "3:38"
+  text: "\"Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "177"
+  category: Sanctification
+  reference: 1 Corinthians 13:4-7
+  set: "3"
+  set_order: "3:39"
+  text: Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "24"
+  category: Guidance (of God)
+  reference: Psalm 32:8 [9]
+  set: "3"
+  set_order: "3:40"
+  text: I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "101"
+  category: Pride, Battling
+  reference: Proverbs 31:30
+  set: "3"
+  set_order: "3:41"
+  text: Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "125"
+  category: Generosity
+  reference: Matthew 6:19-21
+  set: "3"
+  set_order: "3:42"
+  text: "\"Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "176"
+  category: Sanctification
+  reference: 1 Corinthians 10:31
+  set: "3"
+  set_order: "3:43"
+  text: So, whether you eat or drink, or whatever you do, do all to the glory of God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "153"
+  category: Work of Christ
+  reference: Romans 5:18-19
+  set: "3"
+  set_order: "3:44"
+  text: Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "136"
+  category: Life in Christ
+  reference: John 5:39-40
+  set: "3"
+  set_order: "3:45"
+  text: You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me, yet you refuse to come to me that you may have life.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "246"
+  category: Life in Christ
+  reference: 1 Peter 2:9-10 [11]
+  set: "3"
+  set_order: "3:46"
+  text: But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light. Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "163"
+  category: Word of the Lord
+  reference: Romans 10:17
+  set: "3"
+  set_order: "3:47"
+  text: So faith comes from hearing, and hearing through the word of Christ.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "129"
+  category: Humility of Christ
+  reference: Matthew 20:26-28
+  set: "3"
+  set_order: "3:48"
+  text: It shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be your slave, even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "183"
+  category: Gospel
+  reference: 2 Corinthians 5:21
+  set: "3"
+  set_order: "3:49"
+  text: For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "254"
+  category: Love (of God)
+  reference: 1 John 3:1 [2]
+  set: "3"
+  set_order: "3:50"
+  text: See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "197"
+  category: Provision (of God)
+  reference: Ephesians 3:20-21
+  set: "3"
+  set_order: "3:51"
+  text: Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "130"
+  category: Loving God
+  reference: Matthew 22:37-39
+  set: "3"
+  set_order: "3:52"
+  text: "And he said to him, \"You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "106"
+  category: Fear, Battling
+  reference: Isaiah 41:10
+  set: "4"
+  set_order: "4:01"
+  text: fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "107"
+  category: Fear, Battling
+  reference: Isaiah 43:1-3
+  set: "4"
+  set_order: "4:02"
+  text: "But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: \"Fear not, for I have redeemed you; I have called you by name, you are mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you. For I am the LORD your God, the Holy One of Israel, your Savior. I give Egypt as your ransom, Cush and Seba in exchange for you."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "143"
+  category: Life in Christ
+  reference: John 14:6
+  set: "4"
+  set_order: "4:03"
+  text: Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "221"
+  category: Life in Christ
+  reference: 1 Thessalonians 5:14-17
+  set: "4"
+  set_order: "4:04"
+  text: And we urge you, brothers, admonish the idle, encourage the fainthearted, help the weak, be patient with them all. See that no one repays anyone evil for evil, but always seek to do good to one another and to everyone. Rejoice always, pray without ceasing,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "222"
+  category: Sanctification
+  reference: 1 Thessalonians 5:18-22
+  set: "4"
+  set_order: "4:05"
+  text: give thanks in all circumstances; for this is the will of God in Christ Jesus for you. Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good. Abstain from every form of evil.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "87"
+  category: Generosity
+  reference: Proverbs 3:9-10
+  set: "4"
+  set_order: "4:06"
+  text: Honor the LORD with your wealth and with the firstfruits of all your produce; then your barns will be filled with plenty, and your vats will be bursting with wine.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "88"
+  category: Discipline
+  reference: Proverbs 3:11-12
+  set: "4"
+  set_order: "4:07"
+  text: My son, do not despise the LORD's discipline or be weary of his reproof, for the LORD reproves him whom he loves, as a father the son in whom he delights.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "140"
+  category: Security in God
+  reference: John 10:27-30
+  set: "4"
+  set_order: "4:08"
+  text: My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand. I and the Father are one."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "147"
+  category: Obeying God
+  reference: Acts 5:29
+  set: "4"
+  set_order: "4:09"
+  text: But Peter and the apostles answered, "We must obey God rather than men.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "57"
+  category: Praise & Worship
+  reference: Psalm 100:1-3
+  set: "4"
+  set_order: "4:10"
+  text: Make a joyful noise to the LORD, all the earth! Serve the LORD with gladness! Come into his presence with singing! Know that the LORD, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "58"
+  category: Faithfulness (of God)
+  reference: Psalm 100:4-5
+  set: "4"
+  set_order: "4:11"
+  text: Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name! For the LORD is good; his steadfast love endures forever, and his faithfulness to all generations.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "193"
+  category: Work of Christ
+  reference: Ephesians 2:1-3
+  set: "4"
+  set_order: "4:12"
+  text: And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience-- among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "194"
+  category: Work of Christ
+  reference: Ephesians 2:4-5
+  set: "4"
+  set_order: "4:13"
+  text: But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ--by grace you have been saved--
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "195"
+  category: Work of Christ
+  reference: Ephesians 2:6-7
+  set: "4"
+  set_order: "4:14"
+  text: and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "196"
+  category: Salvation
+  reference: Ephesians 2:8-10
+  set: "4"
+  set_order: "4:15"
+  text: For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "151"
+  category: Gospel
+  reference: Romans 5:8
+  set: "4"
+  set_order: "4:16"
+  text: but God shows his love for us in that while we were still sinners, Christ died for us.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "152"
+  category: Salvation
+  reference: Romans 5:9-10
+  set: "4"
+  set_order: "4:17"
+  text: Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "75"
+  category: Presence (of God)
+  reference: Psalm 139:1-3
+  set: "4"
+  set_order: "4:18"
+  text: O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "76"
+  category: Sovereignty of God
+  reference: Psalm 139:4-5
+  set: "4"
+  set_order: "4:19"
+  text: Even before a word is on my tongue, behold, O LORD, you know it altogether. You hem me in, behind and before, and lay your hand upon me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "77"
+  category: Presence (of God)
+  reference: Psalm 139:6-8
+  set: "4"
+  set_order: "4:20"
+  text: Such knowledge is too wonderful for me; it is high; I cannot attain it. Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you are there! If I make my bed in Sheol, you are there!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "78"
+  category: Presence (of God)
+  reference: Psalm 139:9-10
+  set: "4"
+  set_order: "4:21"
+  text: If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "79"
+  category: Presence (of God)
+  reference: Psalm 139:11-12
+  set: "4"
+  set_order: "4:22"
+  text: If I say, "Surely the darkness shall cover me, and the light about me be night," even the darkness is not dark to you; the night is bright as the day, for darkness is as light with you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "80"
+  category: Sovereignty of God
+  reference: Psalm 139:13-14
+  set: "4"
+  set_order: "4:23"
+  text: For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "81"
+  category: Sovereignty of God
+  reference: Psalm 139:15-16
+  set: "4"
+  set_order: "4:24"
+  text: My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "82"
+  category: Loving God
+  reference: Psalm 139:17-18
+  set: "4"
+  set_order: "4:25"
+  text: How precious to me are your thoughts, O God! How vast is the sum of them! If I would count them, they are more than the sand. I awake, and I am still with you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "83"
+  category: Guidance (of God)
+  reference: Psalm 139:23-24
+  set: "4"
+  set_order: "4:26"
+  text: Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "95"
+  category: Joy
+  reference: Proverbs 17:9, 22
+  set: "4"
+  set_order: "4:27"
+  text: Whoever covers an offense seeks love, but he who repeats a matter separates close friends. A joyful heart is good medicine, but a crushed spirit dries up the bones.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "229"
+  category: Supremacy of Jesus
+  reference: Hebrews 1:1-2
+  set: "4"
+  set_order: "4:28"
+  text: Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "230"
+  category: Supremacy of Jesus
+  reference: Hebrews 1:3-4
+  set: "4"
+  set_order: "4:29"
+  text: He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, having become as much superior to angels as the name he has inherited is more excellent than theirs.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "114"
+  category: Sovereignty of God
+  reference: Jeremiah 1:12
+  set: "4"
+  set_order: "4:30"
+  text: Then the LORD said to me, "You have seen well, for I am watching over my word to perform it."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "11"
+  category: Seeking God
+  reference: Psalm 9:9-10
+  set: "4"
+  set_order: "4:31"
+  text: The LORD is a stronghold for the oppressed, a stronghold in times of trouble. And those who know your name put their trust in you, for you, O LORD, have not forsaken those who seek you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "239"
+  category: Goodness (of God)
+  reference: James 1:17
+  set: "4"
+  set_order: "4:32"
+  text: Every good gift and every perfect gift is from above, coming down from the Father of lights with whom there is no variation or shadow due to change.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "20"
+  category: Fear, Battling
+  reference: Psalm 27:1 [2-3]
+  set: "4"
+  set_order: "4:33"
+  text: The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid? When evildoers assail me to eat up my flesh, my adversaries and foes, it is they who stumble and fall. Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "21"
+  category: Seeking God
+  reference: Psalm 27:4 [5]
+  set: "4"
+  set_order: "4:34"
+  text: "One thing have I asked of the LORD, that will I seek after: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD and to inquire in his temple."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "22"
+  category: Waiting on God
+  reference: Psalm 27:13-14
+  set: "4"
+  set_order: "4:35"
+  text: I believe that I shall look upon the goodness of the LORD in the land of the living! Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "241"
+  category: Obeying God
+  reference: James 1:22-24
+  set: "4"
+  set_order: "4:36"
+  text: But be doers of the word, and not hearers only, deceiving yourselves. For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "256"
+  category: Suffering
+  reference: Revelation 2:10
+  set: "4"
+  set_order: "4:37"
+  text: Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "99"
+  category: Speech
+  reference: Proverbs 26:20
+  set: "4"
+  set_order: "4:38"
+  text: For lack of wood the fire goes out, and where there is no whisperer, quarreling ceases.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "115"
+  category: Pride, Battling
+  reference: Jeremiah 9:23-24
+  set: "4"
+  set_order: "4:39"
+  text: "Thus says the LORD: \"Let not the wise man boast in his wisdom, let not the mighty man boast in his might, let not the rich man boast in his riches, but let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth. For in these things I delight, declares the LORD.\""
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "154"
+  category: Gospel
+  reference: Romans 6:23
+  set: "4"
+  set_order: "4:40"
+  text: For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "178"
+  category: Gospel
+  reference: 1 Corinthians 15:1-3
+  set: "4"
+  set_order: "4:41"
+  text: "Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved, if you hold fast to the word I preached to you--unless you believed in vain. For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures,"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "248"
+  category: Gospel
+  reference: 1 Peter 3:18
+  set: "4"
+  set_order: "4:42"
+  text: For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "37"
+  category: Anxiety, Battling
+  reference: Psalm 55:22
+  set: "4"
+  set_order: "4:43"
+  text: Cast your burden on the LORD, and he will sustain you; he will never permit the righteous to be moved.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "74"
+  category: Sovereignty of God
+  reference: Psalm 127:1
+  set: "4"
+  set_order: "4:44"
+  text: Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "242"
+  category: Obeying God
+  reference: James 4:7-8
+  set: "4"
+  set_order: "4:45"
+  text: Submit yourselves therefore to God. Resist the devil, and he will flee from you. Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "68"
+  category: Word of the Lord
+  reference: Psalm 119:14-16
+  set: "4"
+  set_order: "4:46"
+  text: In the way of your testimonies I delight as much as in all riches. I will meditate on your precepts and fix my eyes on your ways. I will delight in your statutes; I will not forget your word.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "145"
+  category: Life in Christ
+  reference: John 15:7
+  set: "4"
+  set_order: "4:47"
+  text: If you abide in me, and my words abide in you, ask whatever you wish, and it will be done for you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "67"
+  category: Trusting God
+  reference: Psalm 118:13-14
+  set: "4"
+  set_order: "4:48"
+  text: I was pushed hard, so that I was falling, but the LORD helped me. The LORD is my strength and my song; he has become my salvation.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "94"
+  category: Anger, Battling
+  reference: Proverbs 16:32
+  set: "4"
+  set_order: "4:49"
+  text: Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "231"
+  category: Sin, Battling
+  reference: Hebrews 3:12-13
+  set: "4"
+  set_order: "4:50"
+  text: Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. But exhort one another every day, as long as it is called "today," that none of you may be hardened by the deceitfulness of sin.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "180"
+  category: Endurance
+  reference: 1 Corinthians 15:58
+  set: "4"
+  set_order: "4:51"
+  text: Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "141"
+  category: Life in Christ
+  reference: John 11:25-26
+  set: "4"
+  set_order: "4:52"
+  text: Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "121"
+  category: Sovereignty of God
+  reference: Daniel 2:20-21
+  set: "5"
+  set_order: "5:01"
+  text: "Daniel answered and said: \"Blessed be the name of God forever and ever, to whom belong wisdom and might. He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding;"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "126"
+  category: Work of Christ
+  reference: Matthew 9:13
+  set: "5"
+  set_order: "5:02"
+  text: Go and learn what this means, 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "69"
+  category: Security in God
+  reference: Psalm 121:1-2
+  set: "5"
+  set_order: "5:03"
+  text: I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, who made heaven and earth.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "70"
+  category: Security in God
+  reference: Psalm 121:3-4
+  set: "5"
+  set_order: "5:04"
+  text: He will not let your foot be moved; he who keeps you will not slumber. Behold, he who keeps Israel will neither slumber nor sleep.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "71"
+  category: Security in God
+  reference: Psalm 121:5-6
+  set: "5"
+  set_order: "5:05"
+  text: The LORD is your keeper; the LORD is your shade on your right hand. The sun shall not strike you by day, nor the moon by night.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "72"
+  category: Security in God
+  reference: Psalm 121:7-8
+  set: "5"
+  set_order: "5:06"
+  text: The LORD will keep you from all evil; he will keep your life. The LORD will keep your going out and your coming in from this time forth and forevermore.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "156"
+  category: Sovereignty of God
+  reference: Romans 8:28
+  set: "5"
+  set_order: "5:07"
+  text: And we know that for those who love God all things work together for good, for those who are called according to his purpose.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "157"
+  category: Salvation
+  reference: Romans 8:29-30
+  set: "5"
+  set_order: "5:08"
+  text: For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "158"
+  category: Anxiety, Battling
+  reference: Romans 8:31-32
+  set: "5"
+  set_order: "5:09"
+  text: What then shall we say to these things? If God is for us, who can be against us? He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "159"
+  category: Security in God
+  reference: Romans 8:33-34
+  set: "5"
+  set_order: "5:10"
+  text: Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died--more than that, who was raised--who is at the right hand of God, who indeed is interceding for us.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "160"
+  category: Security in God
+  reference: Romans 8:35-37
+  set: "5"
+  set_order: "5:11"
+  text: Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword? As it is written, "For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered." No, in all these things we are more than conquerors through him who loved us.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "161"
+  category: Security in God
+  reference: Romans 8:38-39
+  set: "5"
+  set_order: "5:12"
+  text: For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "192"
+  category: Pride, Battling
+  reference: Galatians 6:14
+  set: "5"
+  set_order: "5:13"
+  text: But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "1"
+  category: Sovereignty of God
+  reference: Numbers 23:19
+  set: "5"
+  set_order: "5:14"
+  text: God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "223"
+  category: Gospel
+  reference: 1 Timothy 1:15
+  set: "5"
+  set_order: "5:15"
+  text: The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "235"
+  category: Contentment
+  reference: Hebrews 13:5-6
+  set: "5"
+  set_order: "5:16"
+  text: Keep your life free from love of money, and be content with what you have, for he has said, "I will never leave you nor forsake you." So we can confidently say, "The Lord is my helper; I will not fear; what can man do to me?"
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "118"
+  category: Love (of God)
+  reference: Lamentations 3:21-23
+  set: "5"
+  set_order: "5:17"
+  text: "But this I call to mind, and therefore I have hope: The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "119"
+  category: Waiting on God
+  reference: Lamentations 3:24-26
+  set: "5"
+  set_order: "5:18"
+  text: "\"The LORD is my portion,\" says my soul, \"therefore I will hope in him.\" The LORD is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the LORD."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "120"
+  category: Love (of God)
+  reference: Lamentations 3:31-33
+  set: "5"
+  set_order: "5:19"
+  text: For the Lord will not cast off forever, but, though he cause grief, he will have compassion according to the abundance of his steadfast love; for he does not willingly afflict or grieve the children of men.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "219"
+  category: Word of the Lord
+  reference: Colossians 3:16-17
+  set: "5"
+  set_order: "5:20"
+  text: Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God. And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "102"
+  category: Trusting God
+  reference: Isaiah 26:3-4
+  set: "5"
+  set_order: "5:21"
+  text: You keep him in perfect peace whose mind is stayed on you, because he trusts in you. Trust in the LORD forever, for the LORD GOD is an everlasting rock.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "14"
+  category: Word of the Lord
+  reference: Psalm 19:7-8
+  set: "5"
+  set_order: "5:22"
+  text: The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple; the precepts of the LORD are right, rejoicing the heart; the commandment of the LORD is pure, enlightening the eyes;
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "15"
+  category: Word of the Lord
+  reference: Psalm 19:9-11
+  set: "5"
+  set_order: "5:23"
+  text: the fear of the LORD is clean, enduring forever; the rules of the LORD are true, and righteous altogether. More to be desired are they than gold, even much fine gold; sweeter also than honey and drippings of the honeycomb. Moreover, by them is your servant warned; in keeping them there is great reward.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "137"
+  category: Life in Christ
+  reference: John 6:35
+  set: "5"
+  set_order: "5:24"
+  text: Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "191"
+  category: Life in Christ
+  reference: Galatians 6:9-10
+  set: "5"
+  set_order: "5:25"
+  text: And let us not grow weary of doing good, for in due season we will reap, if we do not give up. So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "25"
+  category: Praise & Worship
+  reference: Psalm 34:1-3
+  set: "5"
+  set_order: "5:26"
+  text: I will bless the LORD at all times; his praise shall continually be in my mouth. My soul makes its boast in the LORD; let the humble hear and be glad. Oh, magnify the LORD with me, and let us exalt his name together!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "26"
+  category: Seeking God
+  reference: Psalm 34:4-5
+  set: "5"
+  set_order: "5:27"
+  text: I sought the LORD, and he answered me and delivered me from all my fears. Those who look to him are radiant, and their faces shall never be ashamed.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "27"
+  category: Goodness (of God)
+  reference: Psalm 34:6-8
+  set: "5"
+  set_order: "5:28"
+  text: This poor man cried, and the LORD heard him and saved him out of all his troubles. The angel of the LORD encamps around those who fear him, and delivers them. Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in him!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "28"
+  category: Provision (of God)
+  reference: Psalm 34:9-11
+  set: "5"
+  set_order: "5:29"
+  text: Oh, fear the LORD, you his saints, for those who fear him have no lack! The young lions suffer want and hunger; but those who seek the LORD lack no good thing. Come, O children, listen to me; I will teach you the fear of the LORD.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "29"
+  category: Speech
+  reference: Psalm 34:12-14
+  set: "5"
+  set_order: "5:30"
+  text: What man is there who desires life and loves many days, that he may see good? Keep your tongue from evil and your lips from speaking deceit. Turn away from evil and do good; seek peace and pursue it.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "30"
+  category: Faithfulness (of God)
+  reference: Psalm 34:15-16
+  set: "5"
+  set_order: "5:31"
+  text: The eyes of the LORD are toward the righteous and his ears toward their cry. The face of the LORD is against those who do evil, to cut off the memory of them from the earth.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "31"
+  category: Faithfulness (of God)
+  reference: Psalm 34:17-18
+  set: "5"
+  set_order: "5:32"
+  text: When the righteous cry for help, the LORD hears and delivers them out of all their troubles. The LORD is near to the brokenhearted and saves the crushed in spirit.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "32"
+  category: Suffering
+  reference: Psalm 34:19-22
+  set: "5"
+  set_order: "5:33"
+  text: Many are the afflictions of the righteous, but the LORD delivers him out of them all. He keeps all his bones; not one of them is broken. Affliction will slay the wicked, and those who hate the righteous will be condemned. The LORD redeems the life of his servants; none of those who take refuge in him will be condemned.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "220"
+  category: Speech
+  reference: Colossians 4:6
+  set: "5"
+  set_order: "5:34"
+  text: Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "138"
+  category: Word of the Lord
+  reference: John 8:31-32
+  set: "5"
+  set_order: "5:35"
+  text: So Jesus said to the Jews who had believed in him, "If you abide in my word, you are truly my disciples, and you will know the truth, and the truth will set you free."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "139"
+  category: Life in Christ
+  reference: John 10:10
+  set: "5"
+  set_order: "5:36"
+  text: The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "117"
+  category: Goodness (of God)
+  reference: Jeremiah 32:40
+  set: "5"
+  set_order: "5:37"
+  text: I will make with them an everlasting covenant, that I will not turn away from doing good to them. And I will put the fear of me in their hearts, that they may not turn from me.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "40"
+  category: Trusting God
+  reference: Psalm 73:25-26
+  set: "5"
+  set_order: "5:38"
+  text: Whom have I in heaven but you? And there is nothing on earth that I desire besides you. My flesh and my heart may fail, but God is the strength of my heart and my portion forever.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "89"
+  category: Sanctification
+  reference: Proverbs 4:23-24
+  set: "5"
+  set_order: "5:39"
+  text: Keep your heart with all vigilance, for from it flow the springs of life. Put away from you crooked speech, and put devious talk far from you.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "90"
+  category: Guidance (of God)
+  reference: Proverbs 4:25-27
+  set: "5"
+  set_order: "5:40"
+  text: Let your eyes look directly forward, and your gaze be straight before you. Ponder the path of your feet; then all your ways will be sure. Do not swerve to the right or to the left; turn your foot away from evil.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "240"
+  category: Anger, Battling
+  reference: James 1:19-20
+  set: "5"
+  set_order: "5:41"
+  text: "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger; for the anger of man does not produce the righteousness of God."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "184"
+  category: Humility of Christ
+  reference: 2 Corinthians 8:9
+  set: "5"
+  set_order: "5:42"
+  text: For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "41"
+  category: Sovereignty of God
+  reference: Psalm 77:13-14
+  set: "5"
+  set_order: "5:43"
+  text: Your way, O God, is holy. What god is great like our God? You are the God who works wonders; you have made known your might among the peoples.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "66"
+  category: Fear, Battling
+  reference: Psalm 118:5-8
+  set: "5"
+  set_order: "5:44"
+  text: Out of my distress I called on the LORD; the LORD answered me and set me free. The LORD is on my side; I will not fear. What can man do to me? The LORD is on my side as my helper; I shall look in triumph on those who hate me. It is better to take refuge in the LORD than to trust in man.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "226"
+  category: Contentment
+  reference: 1 Timothy 6:6-7
+  set: "5"
+  set_order: "5:45"
+  text: Now there is great gain in godliness with contentment, for we brought nothing into the world, and we cannot take anything out of the world.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "42"
+  category: Salvation
+  reference: Psalm 79:9
+  set: "5"
+  set_order: "5:46"
+  text: Help us, O God of our salvation, for the glory of your name; deliver us, and atone for our sins, for your name's sake!
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "43"
+  category: Goodness (of God)
+  reference: Psalm 84:10-11 [12]
+  set: "5"
+  set_order: "5:47"
+  text: For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness. For the LORD God is a sun and shield; the LORD bestows favor and honor. No good thing does he withhold from those who walk uprightly.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "255"
+  category: Anxiety, Battling
+  reference: 1 John 4:4
+  set: "5"
+  set_order: "5:48"
+  text: Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "179"
+  category: Eternity
+  reference: 1 Corinthians 15:51-52
+  set: "5"
+  set_order: "5:49"
+  text: Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "258"
+  category: Eternity
+  reference: Revelation 21:3
+  set: "5"
+  set_order: "5:50"
+  text: And I heard a loud voice from the throne saying, "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "259"
+  category: Eternity
+  reference: Revelation 21:4
+  set: "5"
+  set_order: "5:51"
+  text: He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away."
+- !ruby/object:FighterVerses::Verse 
+  bible_order: "260"
+  category: Eternity
+  reference: Revelation 21:5-6 [7]
+  set: "5"
+  set_order: "5:52"
+  text: And he who was seated on the throne said, "Behold, I am making all things new." Also he said, "Write this down, for these words are trustworthy and true." And he said to me, "It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.
