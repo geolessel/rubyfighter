@@ -69,6 +69,8 @@ module FighterVerses
         data = YAML::load_file(path)
         @verses = data["verses"]
         @start_date = data["start_date"]
+      else
+        raise "verses.yml file does not exist. Please either copy the included\nverses.yml file to ~/.fv/verses.yml or use fighter.rb --setup"
       end
     end
   end
